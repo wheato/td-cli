@@ -12,7 +12,7 @@ $ npm install -g td-cli
 $ td create <template-name> <project-name>
 ```
 
-Example:
+### Example:
 
 ``` bash
 $ td create normal td-project
