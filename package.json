@@ -1,0 +1,29 @@
+{
+  "name": "td-cli",
+  "version": "1.0.0",
+  "description": "treedom frontend cli tool.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheato/td-cli.git"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "cli",
+    "templates"
+  ],
+  "author": "wheato",
+  "bin": {
+    "td": "bin/td"
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "ora": "^0.3.0"
+  },
+  "license": "MIT"
+}
